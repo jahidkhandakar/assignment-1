@@ -1,4 +1,4 @@
-### 1. Differences Between Interfaces and Types in TypeScript
+# 1. Differences Between Interfaces and Types in TypeScript
 
 Both `interface` and `type` are used in TypeScript to define the structure of data, but they have some differences.
 
@@ -37,7 +37,7 @@ type Admin = User & {
 
 
 
-### 2. Use of the keyof Keyword in TypeScript
+# 2. Use of the keyof Keyword in TypeScript
 
 The keyof keyword creates a union of all property names of a type.
 
